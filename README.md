@@ -4,7 +4,7 @@
     <img src="android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" alt="Logo" width="100" height="100">
   </a>
 
-  <h3 align="center">Info Covid-19</h3>
+  <h3 align="center">DevNews</h3>
 
   <p align="center">
     DevNews is open source Flutter application that using <a href="https://dev.to">dev.to</a> api to fetch artiles.
@@ -64,3 +64,4 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 [GNU GPLv3.](LICENSE.md)
+
