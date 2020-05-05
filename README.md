@@ -10,9 +10,9 @@
     DevNews is open source Flutter application that using <a href="https://dev.to">dev.to</a> api to fetch artiles.
     <br />
     <br />
-    <a href="https://github.com/benibete/info_covid-19/issues">Report Bug</a>
+    <a href="https://github.com/chingiz/dev_news/issues">Report Bug</a>
     ·
-    <a href="https://github.com/benibete/info_covid-19/issues">Request Feature</a>
+    <a href="https://github.com/chingiz/dev_news/issues">Request Feature</a>
   </p>
 </p>
 
