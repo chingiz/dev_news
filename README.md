@@ -7,7 +7,7 @@
   <h3 align="center">DevNews</h3>
 
   <p align="center">
-    DevNews is open source Flutter application that using <a href="https://dev.to">dev.to</a> api to fetch artiles.
+    DevNews is open source Flutter application that using <a href="https://dev.to">dev.to</a> api to fetch articles.
     <br />
     <br />
     <a href="https://github.com/chingiz/dev_news/issues">Report Bug</a>
@@ -29,7 +29,7 @@
 
 
 ## About The Project
-DevNews is open source Flutter application that using [dev.to](https://dev.to) api to fetch artiles.
+DevNews is open source Flutter application that using [dev.to](https://dev.to) api to fetch articles.
 
 <img src="screenshots/Image%201.png" width="200px"><img src="screenshots/Image%202.png" width="200px"><img src="screenshots/Image%203.png" width="200px"><img src="screenshots/Image%204.png" width="200px">
 
