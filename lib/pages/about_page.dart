@@ -99,7 +99,9 @@ class _AboutPageState extends State<AboutPage> {
               height: 8,
             ),
             RaisedButton(
-              onPressed: () {},
+              onPressed: () {
+                launchUrl("https://github.com/chingiz/dev_news");
+              },
               padding: EdgeInsets.zero,
               color: backgroundColor,
               elevation: 0,
